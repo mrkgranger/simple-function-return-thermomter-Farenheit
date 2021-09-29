@@ -1,5 +1,5 @@
 {
-    "name": "simple function return Fareneit to Celcius",
+    "name": "simple function return Farenheit to Celcius",
     "description": "",
     "dependencies": {
         "core": "*",
